@@ -44,6 +44,6 @@
     "require-from-string": "^2.0.2",
     "strip-bom": "^4.0.0",
     "sync-request": "^6.1.0",
-    "xterm": "^4.13.0",
+    "xterm": "^4.13.0"
   }
 }
